@@ -1,28 +1,22 @@
-### Hi there, I'm [Fikri Rudiansyah!](https://fikri.vercel.app/) 👋
+### Hi there, I'm Lukman Hakim 👋
 
-<a href="https://www.linkedin.com/in/fikri-rudiansyah-700b171b6/" title="Connect to me">
-  <img align="left" alt="Fikri Rudiansyah | LinkedIn" width="20px" src="./assets/linkedin.svg" />
+<a href="https://www.facebook.com/profile.php?id=100090054670724&mibextid=ZbWKwL" title="Connect to me">
+  <img align="left" alt="Lukman Hakim | Facebook" width="23px" src="./assets/fb_icon-icons.com_66689.svg" />
 </a>
-<a href="https://www.facebook.com/vinz.an.121" title="Connect to me">
-  <img align="left" alt="Fikri Rudiansyah | Facebook" width="23px" src="./assets/fb_icon-icons.com_66689.svg" />
+<a href="https://www.instagram.com/lukmanhkmz_" title="Follow me">
+  <img align="left" alt="Lukman Hakim | instagram" width="20px" src="./assets/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/fikrizhanking" title="Hackerrank">
-  <img align="left" alt="Fikri Rudiansyah | Twitter" width="19px" src="./assets/HackerRank_logo.png" />
-</a>
-<a href="https://twitter.com/FRDBlock" title="Follow me">
-  <img align="left" alt="Fikri Rudiansyah | Twitter" width="20px" src="./assets/twitter.svg" />
-</a>
-<a href="mailto:fikrizhanking@gmail.com" title="Send email to me">
-  <img align="left" alt="Fikri Rudiansyah | Mail" width="20px" src="./assets/email.svg" />
+<a href="mailto:lh412808@gmail.com" title="Send email to me">
+  <img align="left" alt="Lukman Hakim | Mail" width="20px" src="./assets/email.svg" />
 </a>
 <br/>
 <br/>
 
-I’m a student and currently learning blockchain, reactjs & nodejs stuff. 
+I'am a college student and am learning things about the world of programmers. 
 
 [![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=buefy)](https://github.com/superXdev/github-readme-stats)
 
-**Languages and Tools:**
+<!-- **Languages and Tools:**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
@@ -39,7 +33,7 @@ I’m a student and currently learning blockchain, reactjs & nodejs stuff.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png"></code> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superXdev&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
