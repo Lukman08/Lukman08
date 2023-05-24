@@ -14,7 +14,7 @@
 
 I'am a college student and am learning things about the world of programmers. 
 
-[![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=superXdev&theme=buefy)](https://github.com/superXdev/github-readme-stats)
+[![Lukman08 GitHub stats](https://github-readme-stats.vercel.app/api?username=lukman08&theme=buefy)](https://github.com/lukman08/github-readme-stats)
 
 <!-- **Languages and Tools:**
 
