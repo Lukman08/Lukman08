@@ -4,7 +4,7 @@
   <img align="left" alt="Lukman Hakim | Facebook" width="23px" src="./assets/fb_icon-icons.com_66689.svg" />
 </a>
 <a href="https://www.instagram.com/lukmanhkmz_" title="Follow me">
-  <img align="left" alt="Lukman Hakim | instagram" width="20px" src="./assets/instagram.svg" />
+  <img align="left" alt="Lukman Hakim | instagram" width="20px" src="./assets/instagram.png" />
 </a>
 <a href="mailto:lh412808@gmail.com" title="Send email to me">
   <img align="left" alt="Lukman Hakim | Mail" width="20px" src="./assets/email.svg" />
