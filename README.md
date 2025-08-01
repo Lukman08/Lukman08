@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/profile.php?id=100090054670724&mibextid=ZbWKwL" title="Connect to me" target="_blank">
   <img align="left" alt="Lukman Hakim | Facebook" width="23px" src="./assets/fb_icon-icons.com_66689.svg" />
 </a>
-<a href="https://www.instagram.com/lukmanhkmz_" title="Follow me" target="_blank">
+<a href="https://www.instagram.com/lukmanhkimz_" title="Follow me" target="_blank">
   <img align="left" alt="Lukman Hakim | instagram" width="20px" src="./assets/instagram.png" />
 </a>
 <a href="mailto:lh412808@gmail.com" title="Send email to me" target="_blank">
